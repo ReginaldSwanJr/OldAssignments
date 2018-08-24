@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=
+comment1.target=Word()
+comment2.params=w\ c
+comment2.target=Word(java.lang.String,\ int)
+comment3.params=w\ c
+comment3.target=Word(java.lang.String,\ java.lang.String)
+comment4.params=w
+comment4.target=void\ setWord(java.lang.String)
+comment5.params=c
+comment5.target=void\ setCount(java.lang.String)
+comment6.params=c
+comment6.target=void\ setCount(int)
+comment7.params=
+comment7.target=java.lang.String\ getWord()
+comment8.params=
+comment8.target=int\ getCount()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
